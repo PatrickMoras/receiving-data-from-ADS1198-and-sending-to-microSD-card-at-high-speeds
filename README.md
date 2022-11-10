@@ -10,5 +10,5 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________
 # More Information
 
--> First steps with [SD card and STM32](https://www.youtube.com/watch?v=I9KDN1o6924)
--> some solutions for [errors between FatFS and STM32](https://pcbartists.com/firmware/stm32-firmware/hard-fault-stm32-fatfs-solutions/)
+- First steps with [SD card and STM32](https://www.youtube.com/watch?v=I9KDN1o6924)
+- Some solutions for [errors between FatFS and STM32](https://pcbartists.com/firmware/stm32-firmware/hard-fault-stm32-fatfs-solutions/)
